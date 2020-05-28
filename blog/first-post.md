@@ -1,9 +1,7 @@
 ---
-title: 'First post'
-description: 'blog description'
-published: false
-slugs:
-    - ___UNPUBLISHED___kaqhhehs_aXAII6EIopXJhFVBANsZhqzIgLAlTanr
-
+title: "First post"
+description: "blog description"
+published: true
 ---
+
 # First post
