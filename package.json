@@ -11,7 +11,8 @@
     "scully": "scully",
     "scully:serve": "scully serve",
     "jam": "ng build && npm run scully serve",
-    "jam-prod": "ng build --prod && npm run scully"
+    "jam-prod": "ng build --prod && npm run scully",
+    "jam-it": "ng build && npm run scully -- --scanRoutes && npm run scully serve"
   },
   "private": true,
   "dependencies": {
